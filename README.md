@@ -5,6 +5,7 @@ I'm Kapilan, a Biology graduate and data engineer based in London. I am currentl
 - Python
 - SQL
 - Databricks
+- HTML/CSS
 - Adobe Illustrator/Photoshop/InDesign
 - Blender
 
